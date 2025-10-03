@@ -1,0 +1,5 @@
+Flask
+boto3
+botocore
+requests
+requests-aws4auth
