@@ -13,8 +13,8 @@ Client (Flask Web UI/Postman) → API Gateway → Lambda → EC2
 🗂️ Project Structure
 Allianz_Assignment_AWS/
 ├── src 
-        --app.py        # Flask Frontend code
-        --lambda_handler.py   # AWS Lambda backend   
+        --app.py       
+        --lambda_handler.py 
 ├── README.md            # Documentation
 ├── images
 ├── requirements        #dependencies
